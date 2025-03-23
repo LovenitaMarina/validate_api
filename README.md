@@ -8,7 +8,7 @@ The ValidateApi class is a test class designed to validate the response of an AP
 	• Sends a GET request to the API endpoint.
 	• Parses the JSON response using RestAssured's JsonPath.
 	• Validates specific fields in the response body against the acceptance criteria.
-	• Logs the results for debugging and verification.
+	• Prints the values debugging and verification.
 
 
 ##Acceptance Criteria
